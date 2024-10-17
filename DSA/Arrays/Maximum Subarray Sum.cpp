@@ -1,3 +1,4 @@
+// Codechef problem link : https://www.codechef.com/learn/course/arrays/ARRAYS02/problems/DSAAGP12
 #include <bits/stdc++.h>
 using namespace std;
 
